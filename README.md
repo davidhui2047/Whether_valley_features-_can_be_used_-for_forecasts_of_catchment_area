@@ -1,4 +1,4 @@
-# Whether valley features (width or length) can be used to get precise forecasts of catchment area.
+# Whether valley features can be used for forecasts of catchment area
 <b>Aim:</b> <br> To ascertain whether valley features (width or length) can be used to get precise forecasts 
 of catchment area.
 <br><br>
