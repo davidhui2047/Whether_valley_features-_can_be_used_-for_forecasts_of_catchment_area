@@ -8,7 +8,7 @@ forecasts of catchment area. This report primarily based on a fjords dataset, wh
 contains the data (width or length) on fjords from the South Island of New Zealand and 
 British Columbia Canada.
 <br><br>
-<b>Findings:</b> <br> 1. The best model for the fjords in British Columbia Canada is the investigate models that use a log-log transformation for the length. 
-<br>2. The best model for the fjords in New Zealand is the investigate models that use a log-log transformation for the width
+<b>Findings:</b> <br> <b>1.</b> The best model for the fjords in British Columbia Canada is the investigate models that use a log-log transformation for the length. 
+<br><b>2.</b> The best model for the fjords in New Zealand is the investigate models that use a log-log transformation for the width
 <br><br>
 <b>Discussion:</b> <br> A outlier in the fjords dataset of New Zealand is removed as it’s a influential outlier, but a outlier in the fjords dataset of British Columbia is not removed as it’s not a influential outlier. Log-log transformation is used for both British Columbia and New Zealand. Missing data for New Zealand are not removed as removing the missing data will affect the accuracy of the result.
