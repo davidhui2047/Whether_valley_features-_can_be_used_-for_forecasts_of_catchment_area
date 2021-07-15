@@ -1,14 +1,12 @@
-# The different weekly earnings between black and not black people
+# Whether valley features (width or length) can be used to get precise forecasts of catchment area.
 <b>Aim:</b> <br> To ascertain whether valley features (width or length) can be used to get precise forecasts 
 of catchment area.
-
 <br><br>
 <b>Background:</b> <br> There is a vast difference of characteristics between each valley. This project would like 
 to investigate whether valley features (width or length) can be used to get precise 
 forecasts of catchment area. This report primarily based on a fjords dataset, which 
 contains the data (width or length) on fjords from the South Island of New Zealand and 
 British Columbia Canada.
-
 <br><br>
 <b>Findings:</b> <br> 1. The best model for the fjords in British Columbia Canada is the investigate models that use a log-log transformation for the length. 
 <br>2. The best model for the fjords in New Zealand is the investigate models that use a log-log transformation for the width
